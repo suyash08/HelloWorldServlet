@@ -9,4 +9,14 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>MyFirstServletWithGitHub</display-name>
+    <servlet-name>MyFirstServletWithGitHub</servlet-name>
+    <servlet-class>com.smb.servlet.MyFirstServletWithGitHub</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>MyFirstServletWithGitHub</servlet-name>
+    <url-pattern>/MyFirstServletWithGitHub</url-pattern>
+  </servlet-mapping>
 </web-app>
