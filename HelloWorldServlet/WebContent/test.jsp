@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hi Suyash
+Hi Suyash. First user updated jsp.
 </body>
 </html>
