@@ -25,7 +25,7 @@ public class MyFirstServletWithGitHub extends HttpServlet {
 	 * @see Servlet#init(ServletConfig)
 	 */
 	public void init(ServletConfig config) throws ServletException {
-		System.out.println("This is a init method for initialization");
+		System.out.println("This is a init method for initialization 1st user");
 	}
 
 	/**
